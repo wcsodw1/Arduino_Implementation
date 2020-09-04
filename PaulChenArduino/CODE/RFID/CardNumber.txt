@@ -1,0 +1,2 @@
+RFID tag : BA 32 BD 24
+RFID card : 89 BE AD B2

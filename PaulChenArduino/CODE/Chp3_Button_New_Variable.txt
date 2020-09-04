@@ -1,0 +1,27 @@
+const int LED_Pin = 13; // the number of the pushbutton pin
+const int LED_On = 7; // the number of the LED pin
+
+
+// variables will change:
+int buttonState = 0;         // variable for reading the pushbutton status
+
+void setup() {
+  // initialize the LED pin as an output:
+  pinMode(LED_Pin, OUTPUT);
+  // initialize the pushbutton pin as an input:
+  pinMode(LED_On, INPUT);
+}
+
+void loop() {
+  // read the state of the pushbutton value:
+  buttonState = digitalRead(LED_On);
+
+  // check if the pushbutton is pressed. If it is, the buttonState is HIGH:
+  if (buttonState == HIGH) {
+    // turn LED on:
+    digitalWrite(LED_Pin, HIGH);
+  } else {
+    // turn LED off:
+    digitalWrite(LED_Pin, LOW);
+  }
+}

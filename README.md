@@ -2,5 +2,5 @@
 My(David's) Arduino_Implementation
 
 
-![image](result/image/Chp8_LED_74HC595.jpg.png)
+![image](result/image/Chp8_LED_74HC595.jpg)
 

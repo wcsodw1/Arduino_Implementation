@@ -5,5 +5,5 @@ My Arduino_Implementation
 
 ![image](result/Image/Chp8_LED_74HC595.jpg)
 
-![image](result/Video/Chp8_LED.gif)
+![image](result/GIF/Chp9_LED.gif)
 

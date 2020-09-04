@@ -1,6 +1,6 @@
 # Arduino_Implementation
-My(David's) Arduino_Implementation
+My Arduino_Implementation
 
 
-![image](result/image/Chp8_LED_74HC595.jpg)
+![image](result/Image/Chp8_LED_74HC595.jpg)
 

@@ -10,7 +10,7 @@
 ![image](result/GIF/LED/Chp9_LED.gif)
 
 
-## 2.RFID for Door-Lock :
+## 2.RFID - Door-Lock device :
 
 ![image](result/Image/RFID_DoorLock.jpg)
 
